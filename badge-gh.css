@@ -1,0 +1,58 @@
+.github-badge {
+width:150px;
+/* DENNA lägger till länk:  cursor: pointer; */
+  display:inline-block;
+
+}
+
+.github-badge .detail section h4, .github-badge .detail section, .github-badge img.user, .github-badge h4 {
+
+  display:none;
+}
+
+.github-badge.octo h4, .github-badge.octo .octicon-repo , .github-badge.octo .fa, .github-badge.octo .octicon, .github-badge.octo .gb-summary p, .github-badge.octo .gb-summary, .github-badge.octo .user, .github-badge.octo .repos span {
+  display:none;
+}
+
+
+/* github-logo */
+.github-badge.octo .octodex {
+display:none;
+  
+}
+
+/* contributions */
+.github-badge .history {
+  width:150px;
+  border:0px;
+}
+
+.github-badge .history i {
+  height: 8px;
+  width:8px;
+  background:#DFDFDF;
+  margin:1px;
+  display:inline-block;
+}
+
+/* #fff */
+
+.github-badge .history i.few-commits {
+  background:#d6e685;
+}
+
+.github-badge .history i.some-commits {
+  background:#8cc665;
+}
+
+.github-badge .history i.more-commits {
+  background:#44a340;
+}
+
+.github-badge .history i.many-commits {
+  background:#1e6823;
+}
+
+.github-badge .detail section.languages p {
+  white-space: normal;
+}
