@@ -46,13 +46,11 @@ display:none;
 }
 
 .github-badge .history i.more-commits {
-/*  background:#44a340; */
- background:#8cc665;
+  background:#44a340;
 }
 
 .github-badge .history i.many-commits {
-/*  background:#1e6823; */
- background:#8cc665;
+  background:#1e6823;
 }
 
 .github-badge .detail section.languages p {
