@@ -38,21 +38,23 @@ display:none;
 /* #fff */
 
 .github-badge .history i.few-commits {
-  background:#8cc665;
+ /* background:#8cc665; */
+ background:#7EB25B;
 }
 
 .github-badge .history i.some-commits {
-  background:#8cc665;
+ /* background:#8cc665; */
+ background:#7EB25B;
 }
 
 .github-badge .history i.more-commits {
 /*  background:#44a340; */
- background:#8cc665;
+ background:#7EB25B;
 }
 
 .github-badge .history i.many-commits {
 /*  background:#1e6823; */
- background:#8cc665;
+ background:#7EB25B;
 }
 
 .github-badge .detail section.languages p {
